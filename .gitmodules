@@ -1,0 +1,6 @@
+[submodule "baru"]
+	path = baru
+	url = git@github.com:devangel77b/425sbaru-lab11.git
+[submodule "cohen"]
+	path = cohen
+	url = git@github.com:devangel77b/425rcohen-lab11.git
