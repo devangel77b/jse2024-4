@@ -4,3 +4,6 @@
 [submodule "cohen"]
 	path = cohen
 	url = git@github.com:devangel77b/425rcohen-lab11.git
+[submodule "gandhi"]
+	path = gandhi
+	url = git@github.com:devangel77b/525dgandhi-lab11.git
