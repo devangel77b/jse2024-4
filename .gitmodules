@@ -7,3 +7,6 @@
 [submodule "gandhi"]
 	path = gandhi
 	url = git@github.com:devangel77b/525dgandhi-lab11.git
+[submodule "hammer"]
+	path = hammer
+	url = git@github.com:devangel77b/425jhammer-lab11.git
