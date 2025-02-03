@@ -10,3 +10,12 @@
 [submodule "hammer"]
 	path = hammer
 	url = git@github.com:devangel77b/425jhammer-lab11.git
+[submodule "patel"]
+	path = patel
+	url = git@github.com:devangel77b/425kpatel-lab11.git
+[submodule "musuku"]
+	path = musuku
+	url = git@github.com:devangel77b/425smusuku-lab11.git
+[submodule "ayyagari"]
+	path = ayyagari
+	url = git@github.com:devangel77b/425sayyagari-lab11.git
